@@ -1,0 +1,1287 @@
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.exe
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.deps.json
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.json
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.dev.json
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.pdb
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfo.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.xml
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\scopedcss\bundle\MealManagementSytem.styles.css
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.input.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.output.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorCoreGenerate.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Login\Create.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Login\LoginCheck.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Meal\Index.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CopyComplete
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.dll
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.pdb
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.genruntimeconfig.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Deposite\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.exe
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.deps.json
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.json
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.dev.json
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.pdb
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.AssemblyReference.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfoInputs.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfo.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CoreCompileInputs.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.Manifest.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.xml
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\scopedcss\bundle\MealManagementSytem.styles.css
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.input.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.output.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorCoreGenerate.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Deposite\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Meal\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CopyComplete
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.pdb
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.genruntimeconfig.cache
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Deposite\AllDeposits.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Meal\AllMeals.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Expense\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\PreviousAccount\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\OverallCalculation\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Member\Index.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Partial\_CDN.cshtml.g.cs
+D:\GitHub Bash\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.StaticWebAssets.xml
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.exe
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.deps.json
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.json
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.runtimeconfig.dev.json
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.pdb
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Negotiate.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.AssemblyReference.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfoInputs.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.AssemblyInfo.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CoreCompileInputs.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorAssemblyInfo.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.Manifest.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\MealManagementSytem.StaticWebAssets.Pack.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MealManagementSytem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MealManagementSytem.props
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MealManagementSytem.props
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MealManagementSytem.props
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.input.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.TagHelpers.output.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorCoreGenerate.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Deposite\AllDeposits.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Deposite\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Expense\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Meal\AllMeals.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Meal\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Member\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\OverallCalculation\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Partial\_CDN.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\PreviousAccount\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Schedule\Index.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cache
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.RazorTargetAssemblyInfo.cs
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.Views.pdb
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.csproj.CopyComplete
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.dll
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.pdb
+E:\Projects\MMS\MMS\MealManagementSytem\MealManagementSytem\obj\Debug\netcoreapp3.1\MealManagementSytem.genruntimeconfig.cache
